@@ -33,4 +33,4 @@ The project was originally tracked privately over the course of several months v
 
 ## 🙏 Acknowledgements
 
-This work was supervised by **Dr. Vinayak Deshpande**, and I’d like to express my gratitude for his support throughout the project.  
+This work was supervised by [**Dr. Vinayak Deshpande**](https://www.linkedin.com/in/vinayak-deshpande-b5999931/), and I’d like to express my gratitude for his support throughout the project.  
