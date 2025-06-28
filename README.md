@@ -12,6 +12,10 @@ The analysis includes:
 - Data cleaning and preprocessing
 - Descriptive statistics
 - ANOVA testing
+- OLS Regression (Linear)
+- Binary Logistic Regression
+- Decision-Tree Classifier
+- Random Forest Classifier
 - Correlation matrix generation
 - Linear regression modeling
 - Discussion of implications
