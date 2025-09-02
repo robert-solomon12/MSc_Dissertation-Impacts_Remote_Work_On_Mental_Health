@@ -1,4 +1,4 @@
-# 📊 Dissertation Project: MSc. Dissertation in Data Science: Remote Work on Mental Health
+# 📊 MSc. Dissertation in Data Science: Remote Work on Mental Health
 
 This repository contains the final code, analyses, and supplementary documentation for my MSc Data Science dissertation, titled: **"Remote Work on Mental Health"**
 
